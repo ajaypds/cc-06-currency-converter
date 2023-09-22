@@ -1,3 +1,3 @@
-## Currency converter
+## React + Vite App (Currency converter)
 
-React app
+![preview](public/preview.png)
